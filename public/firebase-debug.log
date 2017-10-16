@@ -1,0 +1,108 @@
+[debug] [2017-10-16T17:02:18.507Z] ----------------------------------------------------------------------
+[debug] [2017-10-16T17:02:18.510Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2017-10-16T17:02:18.510Z] CLI Version:   3.13.1
+[debug] [2017-10-16T17:02:18.510Z] Platform:      win32
+[debug] [2017-10-16T17:02:18.510Z] Node Version:  v8.4.0
+[debug] [2017-10-16T17:02:18.511Z] Time:          Mon Oct 16 2017 22:32:18 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:02:18.511Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-16T17:02:18.521Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-10-16T17:02:18.521Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\Desktop\\Web\FilterableImageGallery_v2
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-10-16T17:03:04.837Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-10-16T17:03:04.837Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/XTG-0O8iK3VELcyqLcX9m-5sjvtwNsstny7SMKEewrI',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Mon Oct 16 2017 22:33:04 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:03:05.216Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-16T17:03:05.305Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Mon Oct 16 2017 22:33:05 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:03:06.740Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-16T17:03:27.811Z] ----------------------------------------------------------------------
+[debug] [2017-10-16T17:03:27.814Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2017-10-16T17:03:27.814Z] CLI Version:   3.13.1
+[debug] [2017-10-16T17:03:27.814Z] Platform:      win32
+[debug] [2017-10-16T17:03:27.814Z] Node Version:  v8.4.0
+[debug] [2017-10-16T17:03:27.815Z] Time:          Mon Oct 16 2017 22:33:27 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:03:27.815Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-16T17:03:27.824Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-10-16T17:03:27.825Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\Desktop\\Web\FilterableImageGallery_v2
+
+[warn] !  You have have not selected any features. Continuing will simply associate this folder with a Firebase project. Press Ctrl + C if you want to start over.
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-10-16T17:03:34.881Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Mon Oct 16 2017 22:33:34 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:03:36.153Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-16T17:04:14.166Z] ----------------------------------------------------------------------
+[debug] [2017-10-16T17:04:14.169Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2017-10-16T17:04:14.169Z] CLI Version:   3.13.1
+[debug] [2017-10-16T17:04:14.169Z] Platform:      win32
+[debug] [2017-10-16T17:04:14.169Z] Node Version:  v8.4.0
+[debug] [2017-10-16T17:04:14.170Z] Time:          Mon Oct 16 2017 22:34:14 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:04:14.170Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-16T17:04:14.179Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-10-16T17:04:14.179Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\Desktop\\Web\FilterableImageGallery_v2
+
+[warn] !  You have have not selected any features. Continuing will simply associate this folder with a Firebase project. Press Ctrl + C if you want to start over.
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-10-16T17:05:05.224Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Mon Oct 16 2017 22:35:05 GMT+0530 (India Standard Time)
+[debug] [2017-10-16T17:05:08.141Z] <<< HTTP RESPONSE 200
+[info] 
+[info] i  Writing configuration info to firebase.json...
+[info] i  Writing project information to .firebaserc...
+[info] 
+[info] +  Firebase initialization complete!
